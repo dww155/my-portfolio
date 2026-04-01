@@ -1,5 +1,6 @@
 import "./styles/Work.css";
 import WorkImage from "./WorkImage";
+import { publicUrl } from "../utils/publicUrl";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import {useGSAP} from "@gsap/react";
@@ -67,7 +68,7 @@ const Work = () => {
                 <h4>Tools and features</h4>
                 <p>Javascript, TypeScript, React, Threejs</p>
               </div>
-              <WorkImage image="/images/placeholder.webp" alt="" />
+              <WorkImage image={publicUrl("images/placeholder.webp")} alt="" />
             </div>
           ))}
         </div>
