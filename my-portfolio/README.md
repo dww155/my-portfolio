@@ -1,16 +1,65 @@
-# React + Vite
+# My Portfolio Website - Overview 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the open-source version of my personal portfolio website.  
+Feel free to explore the code and use it for learning and inspiration.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ⚠️ Usage Notice
 
-## React Compiler
+This project is shared for learning purposes only.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Please do NOT:
+- Clone or replicate the full website or design
+- Repost it with minor content changes
+- Use this project for commercial/client work
+- Create tutorials or content using this exact project
 
-## Expanding the ESLint configuration
+If you use parts of the code, you must provide proper credit linking back to the original repository.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Build your own version — don’t just copy.
+
+— Moncy Yohannan
+
+---
+
+## 🛠️ Instructions
+
+I have modified the GSAP Club plugins using trial versions.  
+⚠️ Note: Trial plugins cannot be used for production or hosting.
+
+For official GSAP Club plugins, refer here:  
+https://gsap.com/docs/v3/Installation/
+
+---
+
+## ⚙️ Tech Stack
+
+React • TypeScript • GSAP • Three.js • WebGL • HTML • CSS • JavaScript
+
+---
+
+## 🎨 Assets Usage
+
+Some 3D assets included in this repository are free to use for learning purposes.
+
+However:
+
+- The original 3D avatar used on my live portfolio is NOT included in this repository
+- That avatar is a custom asset created over ~1 month
+- It is not open source and not available for reuse
+
+Any usage, extraction, or redistribution of that avatar from my live website is strictly prohibited.
+
+---
+
+![Protfolio-Preview](https://github.com/user-attachments/assets/3c4557e7-6392-4928-b8a9-7b2476ef4edd)
+
+---
+
+## 📄 License
+
+This project is licensed under the Personal Portfolio License (PPL) v1.0.
+
+See the LICENSE file for full details
+
